@@ -1,4 +1,4 @@
-# ✨ Mugekuro
+#  Mugekuro
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mugekuro&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Crafting%20Code%20with%20Passion&descAlignY=51&descAlign=60" />
