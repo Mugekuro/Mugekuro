@@ -64,7 +64,4 @@
   <em>Thanks for stopping by! Feel free to explore my repos and say hi!</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mugekuro&style=flat-square&color=gradient" alt="Profile Views" />
-</p>
 
