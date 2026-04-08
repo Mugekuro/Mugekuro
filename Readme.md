@@ -1,25 +1,22 @@
-#  Mugekuro
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mugekuro&fontSize=50&animation=fadeIn&fontAlignY=50" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```ts
 const mugekuro = {
   pronouns: "He" | "Him",
-  languages: ["JavaScript", "HTML/CSS", "Java"],
+  languages: ["JavaScript", "HTML/CSS", "Java", "PHP", "C", "C#"],
   interests: ["Web Development"],
-  funFact: "Build it clean, build it right 🚀",
 };
 ```
 
 ---
 
-### 🚀 Projects
+### Projects
 
 <p align="center">
   <a href="https://github.com/Mugekuro?tab=repositories">
@@ -29,7 +26,7 @@ const mugekuro = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | **Frontend** | **Backend** | **Languages** | **Tools** |
 |:---:|:---:|:---:|:---:|
@@ -39,7 +36,7 @@ const mugekuro = {
 
 ---
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugekuro&theme=radical&hide_border=true" />
@@ -47,7 +44,7 @@ const mugekuro = {
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect
 
 <p align="center">
   <a href="https://github.com/Mugekuro">
