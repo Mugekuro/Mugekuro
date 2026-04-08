@@ -7,11 +7,11 @@
 ### About Me
 
 - **Pronouns:** He/Him
-- **Languages:** Choose your fighter:
-  - ⚔️ Java
-  - 🧩 C
-  - 🎯 C#
-  - 🌐 HTML/CSS
+- **Languages:**
+  - Java
+  - C
+  - C#
+  - HTML/CSS
 - **Interests:** Web Development
 
 ---
