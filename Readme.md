@@ -18,9 +18,29 @@ const mugekuro = {
 
 ### Projects
 
+#### 🎮 The Bukidnon Blackout
+
+<p align="center">
+  <a href="https://github.com/Mugekuro/The-Bukidnon-Blackout">
+    <img src="https://img.shields.io/badge/The--Bukidnon--Blackout-181717?style=for-the-badge&logo=github&logoColor=white" alt="The Bukidnon Blackout" />
+  </a>
+</p>
+
+---
+
+#### 📝 Logging System
+
+<p align="center">
+  <a href="https://github.com/Mugekuro/Logging-System">
+    <img src="https://img.shields.io/badge/Logging--System-181717?style=for-the-badge&logo=github&logoColor=white" alt="Logging System" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/Mugekuro?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </p>
 
