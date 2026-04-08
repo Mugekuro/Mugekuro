@@ -6,13 +6,13 @@
 
 ### About Me
 
-```ts
-const mugekuro = {
-  pronouns: "He" | "Him",
-  languages: ["JavaScript", "HTML/CSS", "Java", "PHP", "C", "C#"],
-  interests: ["Web Development"],
-};
-```
+- **Pronouns:** He/Him
+- **Languages:** Choose your fighter:
+  - ⚔️ Java
+  - 🧩 C
+  - 🎯 C#
+  - 🌐 HTML/CSS
+- **Interests:** Web Development
 
 ---
 
