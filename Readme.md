@@ -12,7 +12,7 @@
 const mugekuro = {
   pronouns: "He" | "Him",
   languages: ["JavaScript", "HTML/CSS", "Java"],
-  interests: ["Web Development", "Open Source", "Clean Code"],
+  interests: ["Web Development"],
   funFact: "I believe code is poetry written in logic ✨",
 };
 ```
